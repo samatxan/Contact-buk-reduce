@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Nurnisa",
+      "surname": "Janybek",
+      "number": "0777 755 225",
+      "id": 4
+    },
+    {
+      "name": "samat",
+      "surname": "Samat",
+      "number": "+996 703 783 830",
+      "id": 10
+    },
+    {
+      "name": "Adilet",
+      "surname": "Alisherov",
+      "number": "200393344",
+      "id": 11
+    },
+    {
+      "name": "Aidar",
+      "surname": "Nursultan",
+      "number": "2345676789",
+      "id": 12
+    }
+  ]
+}
